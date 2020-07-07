@@ -9,7 +9,7 @@
   "author": "echekunov",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^6.0.0",
+    "electron": "^7.2.4",
     "electron-rebuild": "^1.8.5",
     "iohook": "^0.6.0"
   },
